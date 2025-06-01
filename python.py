@@ -1,7 +1,7 @@
 print("Hello World")
-def great(self):
-    print("This is function")
+# def great(self):
+#     print("This is function")
 
-great()
+# great()
 #This is a comment added remotely
 
